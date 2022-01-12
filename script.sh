@@ -8,3 +8,4 @@ then
 else
     echo "Invalid Arguments"
     exit 125
+fi
